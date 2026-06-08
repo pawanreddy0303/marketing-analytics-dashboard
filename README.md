@@ -1,4 +1,3 @@
-
 # Marketing Analytics Dashboard
 
 ## Project Overview
@@ -72,6 +71,11 @@ Built an interactive dashboard to analyze:
 * Marketing Analytics
 * Business Intelligence Reporting
 
+---
+
+## Dashboard Preview
+
+https://datastudio.google.com/reporting/e945dc66-3618-4526-8170-79a55bf57880
 
 ---
 
